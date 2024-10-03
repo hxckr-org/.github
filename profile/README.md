@@ -4,7 +4,7 @@ Welcome to Hxckr, a Bitcoin Learning Hub. Hxckr is a self-paced technical learni
 Our open-source curriculum includes real-world coding challenges, curated projects, and comprehensive guides to help you navigate the world of Bitcoin development.
 
 ## About the Platform
-Bitcoin Learning Hub is built to provide a seamless learning experience with a focus on practical coding exercises. Through a series of well-structured lessons, students will start from the basics and progressively build more complex projects, 
+Hxckr is built to provide a seamless learning experience with a focus on practical coding exercises. Through a series of well-structured lessons, students will start from the basics and progressively build more complex projects, 
 applying core Bitcoin development concepts.
 
 Our courses are divided into several modules, each with exercises that follow a project-based approach. Throughout each course, students will build a working project and gain the necessary skills to develop and build the contents of the course independently.
